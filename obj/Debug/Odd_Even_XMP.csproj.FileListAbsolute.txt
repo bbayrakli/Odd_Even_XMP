@@ -1,0 +1,10 @@
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\obj\Debug\Odd_Even_XMP.csprojAssemblyReference.cache
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\obj\Debug\Odd_Even_XMP.Form1.resources
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\obj\Debug\Odd_Even_XMP.Properties.Resources.resources
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\obj\Debug\Odd_Even_XMP.csproj.GenerateResource.cache
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\obj\Debug\Odd_Even_XMP.csproj.CoreCompileInputs.cache
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\bin\Debug\Odd_Even_XMP.exe.config
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\bin\Debug\Odd_Even_XMP.exe
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\bin\Debug\Odd_Even_XMP.pdb
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\obj\Debug\Odd_Even_XMP.exe
+C:\Users\bbayrakli\Desktop\My_Repo\Odd_Even_XMP\obj\Debug\Odd_Even_XMP.pdb
